@@ -1,0 +1,27 @@
+/* Primary colors */
+.strong-cyan-bg {
+    background-color: hsl(171, 66%, 44%);
+}
+.light-blue-bg {
+    background-color: hsl(233, 100%, 69%);
+}
+
+/* Neutral colors */
+.dark-grey {
+    color: hsl(210, 10%, 33%);
+}
+.light-grey{
+    color: hsl(201, 11%, 66%);
+}
+
+/* Typography */
+body{
+    font-size: 18px;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.intro {
+    background-image: url(images/bg-header-mobile.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
